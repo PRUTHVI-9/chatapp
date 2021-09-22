@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="Top left"
+        android:layout_height="wrap_content">
+
+
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="Top right"
+        android:layout_alignParentRight="true"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="bottom left"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="bottom right"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/center"
+        android:layout_width="wrap_content"
+        android:text="center"
+        android:layout_centerInParent="true"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/center"
+        android:layout_centerInParent="true"
+        android:text="text blow center">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/center"
+        android:layout_centerInParent="true"
+        android:text="text above center">
+
+    </TextView>
+
+</RelativeLayout>
