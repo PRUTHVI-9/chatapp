@@ -66,7 +66,7 @@ public class LogInActivity extends AppCompatActivity {
                         String pwd = userDetails.getString("password");
                         String pw = password.getText().toString();
                         if (pw.equals(pwd)){
-                            Intent p = new Intent(LogInActivity.this,HomeActivity.class);
+                            Intent p = new Intent(LogInActivity.this,GoogleLoginActivity.class);
                             startActivity(p);
                             finish();
 

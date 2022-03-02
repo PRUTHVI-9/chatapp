@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/pruth.DESKTOP-5P28CHH/AndroidStudioProjects/chatapp/app/src/main/res/drawable/btn_bg.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/pruth.DESKTOP-5P28CHH/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_google_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pruth.DESKTOP-5P28CHH/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_home.xml" value="0.176" />
+        <entry key="..\:/Users/pruth.DESKTOP-5P28CHH/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_log_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pruth.DESKTOP-5P28CHH/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pruth.DESKTOP-5P28CHH/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pruth.DESKTOP-5P28CHH/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pruth.DESKTOP-5P28CHH/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pruth.DESKTOP-5P28CHH/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_test.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pruth.DESKTOP-5P28CHH/AndroidStudioProjects/chatapp/app/src/main/res/menu/home_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pruth.DESKTOP-5P28CHH/AndroidStudioProjects/chatapp/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/pruth/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_home.xml" value="0.4" />
         <entry key="..\:/Users/pruth/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_log_in.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/pruth/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
