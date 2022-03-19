@@ -8,13 +8,15 @@
     android:layout_height="match_parent"
     tools:context=".TestActivity">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:text="testing"
-        android:textSize="50dp">
+<Button
 
-    </TextView>
+    android:id="@+id/truecaller"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="truecaller"
+    android:textSize="20dp"
+    android:layout_margin="30dp"
+    android:background="@android:color/holo_blue_light">
 
+</Button>
 </LinearLayout>

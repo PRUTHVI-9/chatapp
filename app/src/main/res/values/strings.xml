@@ -13,6 +13,7 @@
     <string name="facebook_app_id">3210970385891831</string>
     <string name="fb_login_protocol_scheme">fb3210970385891831</string>
     <string name="facebook_client_token">00f95ebad0ae2bdbd85918acfa848711</string>
+    <string name="partnerKey">wKdJSc720848b02564e788c74fb582b0b4f4f</string>
 
 
 </resources>
